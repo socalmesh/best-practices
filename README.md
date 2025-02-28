@@ -22,7 +22,7 @@ Best for mobile nodes. Device will not participate in forwarding mesh packets, b
 #### ROUTER
 Best for remote nodes on top of the highest peaks in your geographic area. Very few nodes have this setting.
 
-#### Repeater
+#### REPEATER
 DO NOT USE. There are very few valid use cases for this role and typically causes problems.
 
 ### Hop Count:
