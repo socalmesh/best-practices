@@ -5,7 +5,9 @@ Background: As the SoCalMesh network running on Meshtastic gets bigger and more 
 
 Reference:  https://meshtastic.org/docs/introduction/
 
-Quick Start: ⁠https://discord.com/channels/1197390116201697290/1197390117128646769/1220500317850964202⁠
+[Quick Start](https://discord.com/channels/1197390116201697290/1197390117128646769/1220500317850964202)⁠
+
+[Meshtastic Routing Issues & Deployment Scenarios](https://youtu.be/htjwtnjQkkE)
 
 ## Radio Configuration:
 ### Channel: 
